@@ -3,7 +3,7 @@
 This project shows how to implement SEO (Search Engine Optimization) features in
 Astro projects.
 
-## 🌟 Features
+**Features:**
 
 - Meta tag management
 - Open Graph integration
@@ -11,6 +11,17 @@ Astro projects.
 - RSS feed generation
 - Robots.txt configuration
 - SEO-friendly routing
+
+## Table of Contents
+
+- [Project Structure](#-project-structure)
+- [Configuration](#️-configuration)
+  - [Base SEO Configuration](#base-seo-configuration)
+  - [Meta Tags Implementation](#meta-tags-implementation)
+  - [Dynamic Routes SEO](#dynamic-routes-seo)
+  - [Robots and Sitemap Generation](#robots-and-sitemap-generation)
+  - [RSS](#rss)
+- [Usage](#-usage)
 
 ## 🚀 Project Structure
 
