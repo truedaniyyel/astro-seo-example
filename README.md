@@ -23,7 +23,7 @@ Astro projects.
   - [RSS](#rss)
 - [Usage](#-usage)
 
-## 🚀 Project Structure
+## Project Structure
 
 ```
 src/
@@ -38,7 +38,7 @@ src/
 └── types.ts                    # TypeScript type definitions
 ```
 
-## ⚙️ Configuration
+## ⚙Configuration
 
 ### Base SEO Configuration
 
@@ -256,7 +256,7 @@ export async function GET(context: Context) {
 }
 ```
 
-## 📚 Usage
+## Usage
 
 1. Clone this repository
 2. Install dependencies: `pnpm install`
