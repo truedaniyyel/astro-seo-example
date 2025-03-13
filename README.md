@@ -38,7 +38,7 @@ src/
 └── types.ts                    # TypeScript type definitions
 ```
 
-## ⚙Configuration
+## Configuration
 
 ### Base SEO Configuration
 
